@@ -1,0 +1,1 @@
+Bench Press,Weigth training,120,10,3,8
